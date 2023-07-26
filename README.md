@@ -5,9 +5,7 @@ I can not tell you what I am, because at the moment I'm still learning, I'm lear
 <a href="https://github.com/EstelaAubu/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EstelaAubu" />
 </a>
-<a href="https://github.com/EstelaAubu/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstelaAubu&layout=compact&langs_count=8&card_width=320" />
-</a>
+
 
 
 ### Studying at this moment:
