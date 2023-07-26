@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I can not tell you what I am, because at the moment I'm still learning, I'm learning how to be a programmer... But in the future I want to be a full-Stack Programmer and bring with me all the knowleg
+I can't say what I am, because at the moment I'm still learning, I'm learning to be a programmer... But in the future, I want to be a Full-Stack Programmer and bring with me all the knowledge I've collected in all the areas in which I work. I worked.
 
 <a href="https://github.com/EstelaAubu/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EstelaAubu" />
